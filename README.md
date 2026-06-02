@@ -1,3 +1,7 @@
+DATASET LINK: https://www.kaggle.com/competitions/home-credit-default-risk/data
+APPLICATION_TRAIN.CSV
+APPLICATION_TEST.CSV
+
 # 1. Dataset Overview
 
 The Home Credit Default Risk dataset was loaded successfully using Pandas for analysis.
